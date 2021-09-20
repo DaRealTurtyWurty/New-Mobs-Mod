@@ -1,0 +1,86 @@
+{
+	"iceologer.attack": {
+		"category": "entity",
+		"subtitle": "iceologer.attack",
+		"sounds": [
+			{
+				"name": "newmobs:entity/iceologer/attack_0",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/attack_1",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/attack_2",
+				"stream": true
+			}
+		]
+	},
+	"iceologer.death": {
+		"category": "entity",
+		"subtitle": "iceologer.death",
+		"sounds": [
+			{
+				"name": "newmobs:entity/iceologer/death_0",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/death_1",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/death_2",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/death_3",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/death_4",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/death_5",
+				"stream": true
+			}
+		]
+	},
+	"iceologer.hurt": {
+		"category": "entity",
+		"subtitle": "iceologer.hurt",
+		"sounds": [
+			{
+				"name": "newmobs:entity/iceologer/hurt_0",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/hurt_1",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/hurt_2",
+				"stream": true
+			}
+		]
+	},
+	"iceologer.idle": {
+		"category": "entity",
+		"subtitle": "iceologer.idle",
+		"sounds": [
+			{
+				"name": "newmobs:entity/iceologer/idle_0",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/idle_1",
+				"stream": true
+			},
+			{
+				"name": "newmobs:entity/iceologer/idle_2",
+				"stream": true
+			}
+		]
+	}
+}

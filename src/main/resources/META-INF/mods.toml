@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)" 
+[[mods]]
+modId="newmobs" 
+version="1.0"
+displayName="New Mobs" 
+credits="TurtyWurty"
+authors="TurtyWurty"
+description='''
+Seeing how long it will take me to add the new mobs that Minecraft has the vote on.
+'''
+
+[[dependencies.newmobs]]
+    modId="forge" 
+    mandatory=true
+    versionRange="[31,)" 
+    ordering="NONE"
+    side="BOTH"
+	
+[[dependencies.newmobs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
